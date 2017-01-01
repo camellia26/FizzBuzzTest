@@ -1,6 +1,6 @@
 count = 1
 
-while(count >= 100):
+while(count <= 100):
     if(count % 15 == 0):
         print("FizzBuzz")
     elif(count % 3 == 0):
