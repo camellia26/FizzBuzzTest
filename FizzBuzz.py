@@ -9,4 +9,4 @@ while(count <= 100):
         print("Buzz")
     else:
         print(count)
-    x += 1
+    count += 1
