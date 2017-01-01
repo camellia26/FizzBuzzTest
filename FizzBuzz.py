@@ -7,6 +7,8 @@ while(count <= 100):
         print("Fizz")
     elif(count % 5 == 0):
         print("Buzz")
+    elif(count % 7 == 0):
+        print("GitHub")
     else:
         print(count)
     count += 1
